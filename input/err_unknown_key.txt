@@ -1,0 +1,2 @@
+total = 10
+speed = 5
